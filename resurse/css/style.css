@@ -1,0 +1,52 @@
+h1.center-title {
+	position: absolute;
+	top: 40%;
+	left:50%;
+	 transform: translate(-50%, -50%);
+	font-size: 50px;
+}
+div.container {
+	position: relative;
+	text-align: center;
+	color: white;
+}
+body{
+	background-color:lightgrey;
+
+}
+div.container-paragraf {
+	border-style: solid;
+	border-color: #0080FF;
+	margin-top: 20px;
+}
+p.container-paragraf {
+	padding-top: 2px;
+	padding-right: 5px;
+	padding-bottom: 2px;
+	padding-left: 5px;
+	text-indent: 50px;
+}
+tr.first-table-line {
+	font-weight: bold;
+
+}
+tr:nth-child(even) {
+	background-color: #f2f2f2;
+}
+table.tabel-telefoane{
+	width:100%;
+}	
+th, td {
+  text-align: center;
+  padding: 8px;
+}
+div.tabel {
+	border-style: solid;
+	border-color: #0080FF;
+	margin-top: 20px;
+}	
+div.istorie {
+	border-style: solid;
+	border-color: #0080FF;
+	margin-top: 20px;
+}	
